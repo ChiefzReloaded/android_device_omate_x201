@@ -9,4 +9,4 @@ TARGET_SCREEN_HEIGHT := 240
 PRODUCT_RELEASE_NAME := TrueSmart
 PRODUCT_NAME := cm_x201
 
-$(call inherit-product, device/omate/alps/full_x201.mk)
+$(call inherit-product, device/omate/x201/full_x201.mk)

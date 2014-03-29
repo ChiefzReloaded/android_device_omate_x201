@@ -1,4 +1,4 @@
-Universal device configuration for the TrueSmart (x201)
+Universal device configuration for the Omate TrueSmart (x201)
 ===============================
 
 Copyright 2014 - The CyanogenMod Project
