@@ -26,6 +26,9 @@ USE_CAMERA_STUB := true
 # inherit from the proprietary version
 -include vendor/omate/x201/BoardConfigVendor.mk
 
+# Use CM PowerHAL by default
+TARGET_POWERHAL_VARIANT := cm
+
 TARGET_NO_BOOTLOADER := true
 TARGET_BOOTLOADER_BOARD_NAME := x201
 
